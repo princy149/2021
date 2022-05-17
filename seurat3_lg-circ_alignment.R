@@ -1,4 +1,4 @@
-#!/home/sangho/miniconda3/envs/seurat3/bin/R
+#!/home/upasna/miniconda3/envs/seurat3/bin/R
 library(Seurat)
 library(ggplot2)
 library(Matrix)
